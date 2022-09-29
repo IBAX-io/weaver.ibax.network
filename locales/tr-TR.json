@@ -177,6 +177,7 @@
   "install.mode": "Mod",
   "interface": "Arayüz",
   "interface.block": "Blok",
+  "interface.snippet": "Snippet",
   "interface.menu": "Menü",
   "interface.page": "Sayfa",
   "legal.about": "Weaver - IBAX tarafından geliştirilen bir yazılım ürünü. IBAX Protokolünü kullanmak için oluşturulmuş blokchain networküyle çalışır",
