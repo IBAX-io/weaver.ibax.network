@@ -69,4 +69,4 @@
 
 `$ yarn release --publish never -mwl`
 
-> -mwl Parameter representation mac os, windows, linux，This parameter specifies the compilation of different operating systems
+> -mwl Parameter representation mac os, windows, linux, This parameter specifies the compilation of different operating systems
